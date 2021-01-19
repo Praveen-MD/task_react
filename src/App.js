@@ -10,7 +10,8 @@ const App = () => {
 				<div>
 					<Navbar bg="dark" variant="dark" collapseOnSelect>
 						<Navbar.Toggle navbar-toggler navbar-toggler-left ml-5 />
-						<Nav className="navbar-nav mr-auto">
+						<Nav className=" mr-auto">
+							<Link to="/" />
 							<Link to="/Home">Home</Link>
 							<Link to="/Details">Details</Link>
 						</Nav>
