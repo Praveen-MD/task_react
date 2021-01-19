@@ -1,0 +1,36 @@
+[33mcommit 1a7966103a305bc5902342e52a25e52fdd9273b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Tue Jan 19 01:50:14 2021 +0530
+
+    home and search okay, ui need to be changed
+
+[33mcommit 4796babf567ecdad8c33bd52787f0c20f17a1464[m[33m ([m[1;31mtest/master[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Mon Jan 18 19:46:31 2021 +0530
+
+    responsiveness added with search
+
+[33mcommit a3b1b1120d1bcb021df2b89e857fd1647dab4f48[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: a5d5d9d 7492dca
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Mon Jan 18 13:29:25 2021 +0530
+
+    WIP on master: a5d5d9d home page and search success
+
+[33mcommit 7492dca1914795ac3046658c55a659ea09cba94e[m
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Mon Jan 18 13:29:25 2021 +0530
+
+    index on master: a5d5d9d home page and search success
+
+[33mcommit a5d5d9d0ee43ddfd33073a98fe9f4e930c8bf456[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Mon Jan 18 12:23:32 2021 +0530
+
+    home page and search success
+
+[33mcommit c5bed63fde656194a812cd2b1a3699fafc2ff1dc[m
+Author: Praveen Md <pravimd3@gmail.com>
+Date:   Mon Jan 18 12:09:29 2021 +0530
+
+    card view of home page success

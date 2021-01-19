@@ -1,0 +1,270 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background-color: #282c34;
+	height: 70px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	padding: 20px;
+	cursor: pointer;
+}
+.img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+  }
+.spinner {
+	height: 80px;
+	margin: auto;
+}
+
+.App-intro {
+	font-size: large;
+}
+
+/* new css for movie component */
+
+* {
+	box-sizing: border-box;
+}
+
+.movies {
+	/*display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;*/
+}
+
+.App-header h2 {
+	margin: 0;
+}
+
+.add-movies {
+	text-align: center;
+}
+
+.add-movies button {
+	font-size: 16px;
+	padding: 8px;
+	margin: 0 10px 30px 10px;
+}
+
+.movie {
+	padding: 5px 25px 10px 25px;
+	max-width: 25%;
+}
+
+.errorMessage {
+	margin: auto;
+	font-weight: bold;
+	color: rgb(161, 15, 15);
+}
+
+.search {
+	justify-content: center;
+	margin-top: 10px;
+	padding: "100px";
+	margin-right: 10px;
+}
+
+input[type="submit"] {
+	padding: 5px;
+	background-color: transparent;
+	color: black;
+	border: 1px solid black;
+	width: 80px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #12357c;
+	color: rgb(37, 36, 34);
+}
+
+.search > input[type="text"] {
+	width: 40%;
+	min-width: 100px;
+}
+.card_dec {
+	padding: "20px";
+	margin: "10px";
+	width: "1300px";
+	height: "1500px";
+	float: "left";
+}
+@media screen and (min-width: 800) and (max-width: 915px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 25%;
+	}
+}
+
+@media screen and (min-width: 650px) and (max-width: 700px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 320px) and (max-width: 650px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 75%;
+	}
+}
+@media screen and (max-width: 320px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 100%;
+		margin: auto;
+	}
+}
+
+
+/*.App {
+	text-align: center;
+}
+
+.App-header {
+	background-color: #282c34;
+	height: 70px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	padding: 20px;
+	cursor: pointer;
+}
+
+.spinner {
+	height: 80px;
+	margin: auto;
+}
+
+.App-intro {
+	font-size: large;
+}
+
+/* new css for movie component */
+
+* {
+	box-sizing: border-box;
+}
+
+.movies {
+	/*display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;*/
+}
+
+.App-header h2 {
+	margin: 0;
+}
+
+.add-movies {
+	text-align: center;
+}
+
+.add-movies button {
+	font-size: 16px;
+	padding: 8px;
+	margin: 0 10px 30px 10px;
+}
+
+.movie {
+	padding: 5px 25px 10px 25px;
+	max-width: 25%;
+}
+
+.errorMessage {
+	margin: auto;
+	font-weight: bold;
+	color: rgb(161, 15, 15);
+}
+
+.search {
+	justify-content: center;
+	margin-top: 10px;
+	padding: "100px";
+	margin-right: 10px;
+}
+
+input[type="submit"] {
+	padding: 5px;
+	background-color: transparent;
+	color: black;
+	border: 1px solid black;
+	width: 80px;
+	margin-left: 5px;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background-color: #12357c;
+	color: rgb(37, 36, 34);
+}
+
+.search > input[type="text"] {
+	width: 40%;
+	min-width: 100px;
+}
+.card_dec {
+	padding: "20px";
+	margin: "10px";
+	width: "1300px";
+	height: "1500px";
+	float: "left";
+}
+@media screen and (min-width: 800) and (max-width: 915px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 25%;
+	}
+}
+
+@media screen and (min-width: 650px) and (max-width: 700px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 50%;
+	}
+}
+
+@media screen and (min-width: 320px) and (max-width: 650px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 75%;
+	}
+}
+@media screen and (max-width: 320px) {
+	.card_dec,
+	App-header,
+	div,
+	Container {
+		max-width: 100%;
+		margin: auto;
+	}
+}
+*/
